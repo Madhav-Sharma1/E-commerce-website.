@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Nike Solo Swoosh Men's Fleece Open-Hem Trousers",
+    "material": "Fleece",
+    "price": "₹ 5,695.00",
+    "img": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7ffed27f-7cdd-42f5-aa53-976b7efe1491/M+J+FLT+UTILITY+PANT.png"
+  },
+  {
+    "name": "Boys Logo Shorts",
+    "material": "Cotton",
+    "price": "₹ 1,995.00",
+    "img": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/2684716cb6b04999a94588116ca5c637_9366/Boys_Logo_Shorts_Blue_IL5692_00_plp_laydown.jpg"
+  },
+  {
+    "name": "INTERNAL TRACKTOP",
+    "material": "Tech Fleece",
+    "price": "₹ 1,599.00",
+    "img": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/45664a3293444d5d9fd6f77b0ed66565_9366/INTERNAL_TRACKTOP_Grey_IQ1616_21_model.jpg"
+  }
+]

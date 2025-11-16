@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Nike Men's Dri-FIT Running T-Shirt",
+      "material": "Dri-FIT",
+      "price": "₹ 1,795.00",
+      "img": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/aec4d92d-05b5-4572-9c2f-6bf94b8d72a2/AS+M+NK+DF+UV+MILER+TOP+LS.png"
+    },
+    {
+      "name": "Boys Logo Shorts",
+      "material": "Cotton",
+      "price": "₹ 1,995.00",
+      "img": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/2684716cb6b04999a94588116ca5c637_9366/Boys_Logo_Shorts_Blue_IL5692_00_plp_laydown.jpg"
+    },
+    {
+      "name": "Nike Solo Swoosh Men's Fleece Open-Hem Trousers",
+      "material": "Fleece",
+      "price": "₹ 5,695.00",
+      "img": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7ffed27f-7cdd-42f5-aa53-976b7efe1491/M+J+FLT+UTILITY+PANT.png"
+    },
+    {
+      "name": "INTERNAL TRACKTOP",
+      "material": "Tech Fleece",
+      "price": "₹ 1,599.00",
+      "img": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/45664a3293444d5d9fd6f77b0ed66565_9366/INTERNAL_TRACKTOP_Grey_IQ1616_21_model.jpg"
+    },
+    {
+      "name": "Jordan Brooklyn Men's Velour Track Jacket",
+      "material": "Velour",
+      "price": "₹ 5,495.00",
+      "img": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/355bf302-6124-467d-8c37-241f0f3a75e2/M+J+BRK+VL+TRACK+JKT.png"
+    },
+    {
+      "name": "Manchester United 24/25 Home Authentic Jersey",
+      "material": "Dri-FIT",
+      "price": "₹ 2000.00",
+      "img": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/08f8a166436a41898e509b393a506e24_9366/Manchester_United_24-25_Home_Authentic_Jersey_Red_JF1291_HM1.jpg"
+    },
+    {
+      "name": "Nike Sportswear Phoenix Fleece Women's Oversized Pullover Hoodie",
+      "material": "Phoenix Fleece",
+      "price": "₹ 3,795.00",
+      "img": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/50e5473a-c932-425a-b577-a663c8c415be/M+J+BRK+OVS+PO+HD.png"
+    }
+]

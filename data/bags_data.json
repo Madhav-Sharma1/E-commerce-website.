@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Nike One",
+        "img":"https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/1ae15c70-f6c7-448d-9f2d-9d5822b4f55e/NK+ONE+BKPK.png",
+        "price":"MRP : ₹ 6 695.00",
+        "capacity":"25 L"
+    },
+    {
+    "name": "Nike Varsity Elite Backpack (32 L)",
+    "img": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/5657e8fe-485e-4185-a868-99c1bb401abe/Y+NK+ELMNTL+BKPK+SHOEBOX.png",
+    "price": "₹ 5,495.00",
+    "capacity": "32 L"
+  },
+  {
+    "name": "APWR Backpack(33 L)",
+    "img": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/e8a29b8368fd454da65b36fdec8265ef_9366/APWR_Backpack_Blue_IT5360_01_00_standard.jpg",
+    "price": "₹ 6,195.00",
+    "capacity": "33 L"
+  },
+  {
+    "name": "ATHLTS Power Backpack(23 L)",
+    "img": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a4f3d9b1979c40d9a88ce1385a5270b4_9366/ATHLTS_Power_Backpack_Black_JL6155_01_00_standard.jpg",
+    "price": "₹ 3,795.00",
+    "capacity": "23 L"
+  },
+  {
+    "name": "Nike Brasilia 9.5 Training Duffel Bag (Medium, 60 L)",
+    "img": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/e1e3b396-f6e7-442b-afc6-1dcaf2c3c721/NK+BRSLA+M+DUFF+-+9.0+%2860L%29.png",
+    "price": "₹ 2,795.00",
+    "capacity": "60 L"
+  },
+  {
+    "name": "Nike Aura Cross‑Body Bag (20 L)",
+    "img": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/9770e761-3ba3-4186-9698-030d2e74b107/NIKE+HAYWARD+BKPK.png",
+    "price": "₹ 2,695.00",
+    "capacity": "20 L"
+  }
+]

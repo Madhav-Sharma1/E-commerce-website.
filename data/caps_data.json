@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Nike Dri-FIT Club",
+      "material": "Dri-FIT",
+      "price": "₹ 1,795.00",
+      "img": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/0f0a7877-7aef-447f-86c2-1ef62d7c1c93/U+NK+DF+CLUB+CAP+U+CB+MTSWSH+L.png"
+    },
+    {
+      "name": "Shatto 6 Panel Cap",
+      "material": "Dri-FIT",
+      "price": "₹ 1,995.00",
+      "img": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/de6cd034f00b4aa5aec2499c3e47e273_9366/Shatto_6_Panel_Cap_Black_JX6196_01_00_standard.jpg"
+    },
+    {
+      "name": "Nike Dri-FIT ADV Rise",
+      "material": "Fleece",
+      "price": "₹ 1,695.00",
+      "img": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/468d180e-39b7-40b7-b0de-10193ef4c181/U+NK+DFADV+RISE+CAP+S+AB+SF+P.png"
+    },
+    {
+      "name": "Nike Unstructured Swoosh Cap",
+      "material": "Tech Fleece",
+      "price": "₹ 995.00",
+      "img": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/ac28a704-6424-4fcb-ace3-fb65ca3e783f/U+NK+CLUB+CAP+U+CB+SWSH+L.png"
+    },
+    {
+      "name": "Spain 26 Football Baseball Cap",
+      "material": "Dri-FIT",
+      "price": "₹2 799.00",
+      "img": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/18bf43e74a9948c781c109bd815b29b5_9366/Spain_26_Football_Baseball_Cap_Blue_KD3198_01_00_standard.jpg"
+    },
+    {
+      "name": "Nike Apex",
+      "material": "Dri-FIT",
+      "price": "₹ 3,695.00",
+      "img": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/b02993f8-6d13-46a2-bfb6-1829f88b6d39/U+NK+DF+APEX+BKT+WB+P.png"
+    },
+    {
+      "name": "WORLD CUP OFFICIAL EMBLEM CAP",
+      "material": "Dri-FIT",
+      "price": "₹ 2,795.00",
+      "img": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/28da80ca3a88411f91638b93b3d57040_9366/WORLD_CUP_OFFICIAL_EMBLEM_CAP_Black_KE7368_01_00_standard.jpg"
+    }
+]

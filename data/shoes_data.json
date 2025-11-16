@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Nike Air Max Moto 2KWomen's Shoes"  ,
+        "img":"https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/00146266-bedc-4e5f-b66f-3b167b3863bf/W+NIKE+AIR+MAX+MOTO+2K.png",
+        "gender":"Women's Shoes",
+        "price":"₹ 11 495.00"
+    },
+    {
+        "name":"Nike ReactX Rejuven8Older Kids' Shoes",
+        "img":"https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/012a91ce-8601-44df-bc76-e98718a414b3/NIKE+SHOX+RIDE+2.png"  ,
+        "gender":"Men's Shoes",
+        "price":"₹ 15 995.00"
+    },
+    {
+        "name":"DURAMO SL2 IKD W" ,
+        "img":"https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/5f7792450b464588a13e24d2471c528c_9366/DURAMO_SL2_IKD_W_Blue_KL1714_02_standard_hover.jpg",
+        "gender":"Women's Shoes",
+        "price":"₹ 4 595.00"
+    },
+    {
+        "name":"Nike InitiatorWomen's Shoes",
+        "img":"https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/89b2efd0-68c8-4761-9623-2541df67db5c/AIR+FORCE+1+%2707+LV8.png",
+        "gender":"Men's Shoes",
+        "price":"₹ 10 795.00"
+    },
+    {
+        "name":"Galaxy 6 Shoes",
+        "img":"https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/a046f90f47c042d69294a97601139ffc_9366/Handball_Spezial_Shoes_Blue_BD7632_02_standard.jpg",
+        "gender":"Women's Shoes",
+        "price":"₹ 6 600"
+    },{
+        "name":"Nike Court Legacy LiftWomen's Shoes",
+        "img":"https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/cfa06271-2153-4c9d-93a8-c9eff6d4e50d/NIKE+C1TY+PRM.png" ,
+        "gender":"Men's Shoes",
+        "price":"₹ 7 495.00"
+    }
+]
