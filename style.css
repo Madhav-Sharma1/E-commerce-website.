@@ -96,6 +96,7 @@ main{
     width:150px;
     box-shadow: 6px 7px 1px lightgrey;
     border-radius:100px;
+    cursor:pointer;
     text-align: center;
     margin: 10px;
     left:22%;
@@ -171,3 +172,4 @@ main{
   padding-top: 10px;
   color:black;
 }
+
