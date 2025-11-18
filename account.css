@@ -2,17 +2,20 @@
     margin:0;
     padding:0;
 }
+html{
+    background-color:#FFFFFF ;
+}
 body{
     font-family: Arial, Helvetica, sans-serif;
     line-height:1.6;
 }
 header{
-    background-color: aqua;
+    background-color: rgb(142, 142, 142);
     color: black;
     text-align: center;
 }
 main{
-    background-color: aliceblue;
+    background-color: #FFFFFF;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -23,18 +26,18 @@ main{
     flex-direction: column;
     justify-content:center;
     align-items: center;
-    background-color: lightcoral;
+    background-color: rgb(195, 193, 193);
     color:black;
-    height:350px;
-    width:300px;
+    height:450px;
+    width:400px;
     border: 3px solid black;
     border-radius: 10px;
 }
 main input{
-    height:30px;
-    width:200px;
+    height:40px;
+    width:300px;
     border-radius:10px;
-    font-size: medium;
+    font-size: large;
 }
 button{
     height:40px;
@@ -50,7 +53,8 @@ button:hover{
     color:blue;
 }
 footer{
-    background-color: aqua;
+    background-color: rgb(142, 142, 142);
     color:black;
     text-align: center;
+}
 }
